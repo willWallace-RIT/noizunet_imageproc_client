@@ -37,7 +37,7 @@ creators and developers are priced out of scalable rendering pipelines
 existing cloud providers are optimized for general compute, not media-native workloads
 
 
-TLDR noizunet need eficiency of finding known generated image as well as assessing generated image. handling/processing vast amounts of data, and a digits of PI adjacent problem generating new noise.
+TLDR noizunet need eficiency of finding known generated image as well as assessing generated image. handling/processing vast amounts of data, and a digits of PI adjacent problem generating new noise. the latter creates new rates of stride for the first.
 
 
 The result:
